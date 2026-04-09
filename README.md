@@ -1,4 +1,4 @@
-﻿# frontend_challenge
+# frontend_challenge
 # 🗓️ Wall Calendar — Interactive React Component
 
 A polished, interactive wall calendar component inspired by the physical wall calendar aesthetic, built with React and vanilla CSS.
